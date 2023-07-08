@@ -1,0 +1,186 @@
+
+#sampath
+{
+	background-color:#4C71B2;
+	height:30px;
+	width:100%;
+}
+#sethupathi
+{
+	
+	width:70%;
+	margin:0px auto;
+}
+#header
+{
+	background-color:white;
+	height:80px;
+
+	
+}
+
+#header img
+{
+	height:90px;
+	
+}
+#header ul 
+{
+	float:right;
+	margin-top:35px;
+}
+#header ul li
+{
+	display: inline;
+	margin:15px;
+	
+}
+#header ul li a
+{
+	color:black;
+	text-decoration:none;
+	font-size:20px;
+	
+}
+
+#banner img 
+{
+	width:100%;
+	height:500px;
+	padding-bottom:20px;
+}
+#content1
+{
+	width:32%;
+	height:300px;
+	background-color:yellow;
+	float:left;
+	margin-right:1%;
+	padding:10px;
+
+	
+}
+#content2
+{
+	width:32%;
+	height:300px;
+	background-color:orange;
+	float:left;
+
+}
+#content3
+{
+	width:32%;
+	height:300px;
+	background-color:pink;
+	float:right;
+}
+.hedding
+{
+	color:black;
+	
+	margin-left:10px;
+	
+}
+.para1 
+{
+	color:black;
+	margin:20px;
+}
+.more
+{
+	text-decoration:none;
+	color:black;
+	background-color:white;
+	padding:5px;
+	margin-left:5px;
+	
+	
+}
+.hedding 1
+{
+	color:black;
+	margin-left:10px;
+}
+
+.para2
+{
+	margin:20px:
+}
+.more1
+{
+	text-decoration:none;
+	color:black;
+	background-color:white;
+	padding:5px;
+	margin-left:5px;
+	
+}
+
+.hedding 2
+{
+	color:black;
+	margin-left:10px;
+}
+
+.para3
+{
+	margin:20px:
+}
+.more2
+{
+	text-decoration:none;
+	color:black;
+	background-color:white;
+	padding:5px;
+	margin-left:5px;
+	
+}
+#bottom1
+{
+	width:30%;
+	height:300px;
+	
+	float:right;
+	margin-top:35px;
+}
+#bottom2
+{
+	width:70%;
+	height:300px;
+	
+	float:left;
+	margin-top:15px;
+}
+#bottom2 h1 
+{
+	margin-left:20px
+	
+} 
+#bottom2 p
+{
+	padding:10px;
+	
+}
+
+
+	
+	
+	
+#fotter
+{
+	background-color:#4C71B2;
+	width:100%;
+	height:80px;
+	clear:both;
+	
+}
+#fotter p
+{
+	float:right;
+	font-family:arial;
+	color:red;
+}
+
+
+	
